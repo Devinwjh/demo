@@ -1,0 +1,4 @@
+myboot/.idea
+myboot/myboot.iml
+myboot/*/target
+myboot/*/*.iml
